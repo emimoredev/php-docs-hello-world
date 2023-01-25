@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'emj-anasanz'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_518D24F211A84FDBBB062BA0ECFAE058 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4DDCFE570EC41938A563DF536787F66 }}
           package: .
